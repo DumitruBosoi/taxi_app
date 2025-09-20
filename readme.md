@@ -4,6 +4,7 @@ A simple and intuitive taxi booking app built with python for Riders, Drivers, a
 
 ---
 ### Snaps
+<img width="1600" height="701" alt="Screenshot from 2025-09-20 22-56-40" src="https://github.com/user-attachments/assets/a7072c6f-cb1b-4431-9e19-6d0259af258a" />
 
 
 
